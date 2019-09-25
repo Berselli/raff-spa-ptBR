@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Berselli/raff-spa-ptBR/issues"
   },
-  "homepage": "https://github.com/Berselli/raff-spa-ptBR#readme"
+  "homepage": "https://github.com/Berselli/raff-spa-ptBR#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
